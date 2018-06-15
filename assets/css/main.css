@@ -3223,6 +3223,10 @@
 		padding: 1em;
 	}
 
+	.blog-image img {
+		max-width: 100%;
+	}
+
 	.quote {
 		font-size: 75%;
 		text-align: center;
