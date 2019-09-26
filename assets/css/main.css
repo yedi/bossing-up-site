@@ -3244,3 +3244,6 @@
 	.citations ul {
 		list-style-type: circle;
 	}
+	.content {
+		padding: 4em;
+	}
